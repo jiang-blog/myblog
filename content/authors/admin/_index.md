@@ -1,7 +1,9 @@
 ---
 title: SK Jiang
 role: 学生
+avatar_filename: avatar.png
 bio: My research interests include python, neural network
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -9,7 +11,6 @@ social:
 organizations:
   - name: 北航
 email: jiang849725768@outlook.com
-interests: []
 superuser: true
 status:
   icon: ☕️
