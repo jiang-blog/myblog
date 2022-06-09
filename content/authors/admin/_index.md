@@ -3,7 +3,6 @@ title: SK Jiang
 role: 学生
 avatar_filename: avatar.png
 bio: My research interests include python, neural network
-interests: []
 social:
   - icon: envelope
     icon_pack: fas
