@@ -2,11 +2,12 @@
 title: 'Word写论文常用技巧'
 date: 2021-12-09 14:02:26
 tags: [折腾电脑,word]
-published: false
-hideInList: false
-feature: 
+draft: false
+featured: false
 isTop: false
 ---
+# word技巧
+
 ## 章节编号
 
 
